@@ -28,15 +28,6 @@ I am a software developer and full-stack engineer focused on building robust bac
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tobythomas-official&show_icons=true&theme=dark" alt="Toby's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobythomas-official&layout=compact&theme=dark" alt="Top Languages" height="180px" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 *   **GitHub:** [tobythomas-official](https://github.com/tobythomas-official)
 *   **Portfolio:** *[Link to your ALPHA-V2 deployment]*
