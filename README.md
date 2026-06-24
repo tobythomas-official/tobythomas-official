@@ -30,4 +30,5 @@ I am a software developer and full-stack engineer focused on building robust bac
 
 ## 🤝 Connect With Me
 *   **GitHub:** [tobythomas-official](https://github.com/tobythomas-official)
-*   **Portfolio:** [Toby Thomas Portfolio](https://github.com/tobythomas-official)
+*   **Portfolio:** [Toby Thomas Portfolio](https://tobythomas.netlify.app/index.html)
+*   **Linkdin:** [Toby Thomas](https://www.linkedin.com/in/tobythomasofficial/)
