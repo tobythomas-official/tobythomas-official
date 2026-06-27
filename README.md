@@ -28,7 +28,19 @@ I am a software developer and full-stack engineer focused on building robust bac
 
 ---
 
+## GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tobythomas-official&theme=github-dark" height="170"/>
+</p>
+
+## Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tobythomas-official&theme=github-compact)](https://github.com/tobythomas-official)
+
+---
+
 ## 🤝 Connect With Me
 *   **GitHub:** [tobythomas-official](https://github.com/tobythomas-official)
 *   **Portfolio:** [Toby Thomas Portfolio](https://tobythomas.netlify.app/index.html)
-*   **Linkdin:** [Toby Thomas](https://www.linkedin.com/in/tobythomasofficial/)
+*   **Linkdin:** [Toby Thomas](https://www.linkedin.com/in/tobythomasofficial/) on progress ...
