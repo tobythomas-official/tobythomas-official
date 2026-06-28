@@ -44,3 +44,21 @@ I am a software developer and full-stack engineer focused on building robust bac
 *   **GitHub:** [tobythomas-official](https://github.com/tobythomas-official)
 *   **Portfolio:** [Toby Thomas Portfolio](https://tobythomas.netlify.app/index.html)
 *   **Linkdin:** [Toby Thomas](https://www.linkedin.com/in/tobythomasofficial/) on progress ...
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tobythomasofficial" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/tobythomas.in" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="50" alt="Instagram"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://discord.gg/njrpu3h5" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" height="50" alt="Discord"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://tobythomas.netlify.app" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/domain.png" height="50" alt="Website"/>
+  </a>
+</p>
