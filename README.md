@@ -42,9 +42,9 @@ I enjoy combining software engineering with artificial intelligence to solve Rea
 2022 - 2023
 ● Started Programming
 │
-├── Learned C & C++
+├── Learned Basic of Python in My Class 12 
 │
-└── Built First Console and Hardware Projects
+└── Built First Basic Console Project
 │
 ▼
 2024
@@ -87,6 +87,7 @@ I enjoy combining software engineering with artificial intelligence to solve Rea
 | Project | Description | Status |
 |:----------|:---------------|:---------:|
 | **IR PORT** | *nill* | 🚀 Launching Soon | 
+| **NoteNest** | *nill* | 🚀 Launching Soon | 
 |**Windswood** | An immersive hub for music lovers, offering custom playlists, artist spotlights, instrument guides, and fresh tracks to elevate your sound. | 🛠️ Development |
 | **T4TECH** | A technology news and reviews platform featuring the latest updates, gadget reviews, product comparisons, and best deals. | 🚧 In Progress |
 | **Luminai** | An AI-powered Christian companion platform offering Bible study, devotionals, faith-based conversations, and personalized spiritual guidance. | 🔄 Maintenance |
