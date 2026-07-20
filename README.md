@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=808080&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+Computer+Vision;Open+Source+Contributor;Active+in+Innovation"
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=500&color=808080&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+Computer+Vision;Open+Source+Contributor;Active+in+Innovation"
     alt="Typing SVG"Gre
   />
 </p>
@@ -19,12 +19,13 @@ I enjoy combining software engineering with artificial intelligence to solve Rea
 
 - 🔴 Status: Offline
 - ❗️ Reason: System Maintance 
-- 💻 Currently Coding: *nill*
+- 📂 Currently Coding: *nill*
 - 🌐 Building: T4Tech
 - 📚 Learning: [Practical GitHub Actions](https://www.linkedin.com/learning/practical-github-actions/python-to-process-yaml-with-codespaces)
 - 🚀 Next Goal: Android & iOS App Based Dev
 - ☕ Last Updated: July 8, 2026
 - Ⓜ️ Motivation  : Restart Required
+- 💻 Engines : Linux and Windows
 
 # 🧠 Current Focus & Projects
 *   **AI Video Processing:** Developing optimized pipelines that layer optical character recognition with LLMs for real-time frame scanning.
@@ -39,7 +40,7 @@ I enjoy combining software engineering with artificial intelligence to solve Rea
 ```text
                MY JOURNEY
 
-2022 - 2023
+2021
 ● Started Programming
 │
 ├── Learned Basic of Python in My Class 12 
@@ -47,14 +48,20 @@ I enjoy combining software engineering with artificial intelligence to solve Rea
 └── Built First Basic Console Project
 │
 ▼
-2024
-● Started Web Development
+2022
+● Started Bacherlors Program
 │
-├── HTML • CSS • JavaScript
+├── Started Basic Web Developement - HTML • CSS • JavaScript
 │
-├── Responsive Websites
+├── Step into Responsive Websites
 │
-└── React.js
+▼
+2022
+● Started Bacherlors Program
+│
+├── Started Dynamic Web Developement - React.js
+│
+├── Achieved Second Prize in Android Fest and secured Second & Third Prizes at the Chandigarh University Award Ceremony.
 │
 ▼
 2025
@@ -65,8 +72,12 @@ I enjoy combining software engineering with artificial intelligence to solve Rea
 ├── React.js
 ├── Node.js
 │
+● Completed the Bachelors Program 
+● Started Internship In Bridge Connectivity Solution Pvt Ltd
+│
+├──
 ├── Built Real-world MERN Projects
-└── Git & GitHub
+├── Git, Gitlab & GitHub
 │
 ▼
 2026
@@ -76,7 +87,11 @@ I enjoy combining software engineering with artificial intelligence to solve Rea
 ├── Machine Learning
 ├── Deep Learning
 ├── Research Projects
-└── Open Source Contributions
+├── Open Source Contributions
+│
+● Completed the Internship In Bridge Connectivity Solution Pvt Ltd
+│
+● Started Master of Computer Applications (Artificial Intelligence and Machine Learning).
 ```
 
 </div>
@@ -159,7 +174,6 @@ I enjoy combining software engineering with artificial intelligence to solve Rea
 
 # ⚡ Fun Facts
 
-* 🐧 Ubuntu Linux user
 * 🤖 Love building AI projects
 * 🌐 Passionate about Open Source
 * 🚀 Always learning something new
