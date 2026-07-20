@@ -40,11 +40,11 @@ I enjoy combining software engineering with artificial intelligence to solve Rea
 ```text
                MY JOURNEY
 
-2021
+[ 2021 ]
 ● Started Programming
 │
-├── Learned Basic of Python in My Class 12 
-└── Built First Basic Console Project
+├── Learned Basic of Python in My Senior Secondary.
+├── Built First Basic Console Project.
 │
 ▼
 [ 2022 ]
@@ -56,13 +56,16 @@ I enjoy combining software engineering with artificial intelligence to solve Rea
 │
 ▼
 [ 2023 ]
-│
 ├── Started Dynamic Web Developement - React.js
+│
+├── Phase Base of T.A.P.S. ( Train Accident Prevention System )
+│
+├── Final Phase of T.A.P.S ( Train Accident Prevention System )
 │
 ├── Got an Achievements
 │              │
-│              ├── 🥈 Second Prize – Android Fest in T.A.P.S [ 
-│              ├── 🥈 Second Prize – Chandigarh University Award Ceremony
+│              ├── 🥈 Second Prize – Google Dev Fest
+│              ├── 🥈 Second Prize – Android Fest
 │              └── 🥉 Third Prize – Chandigarh University Award Ceremony
 │
 ▼
@@ -71,17 +74,19 @@ I enjoy combining software engineering with artificial intelligence to solve Rea
 │              ├── MongoDB
 │              ├── Express.js
 │              ├── React.js
-│              ├── Node.js
+│              └── Node.js
 │
 ● Completed the Bachelors Program 
-● Started Internship In Bridge Connectivity Solution Pvt Ltd
+|
+● Started Internship.
 │
-├──
+├── Data Science
+|
 ├── Built Real-world MERN Projects
 ├── Git, Gitlab & GitHub
 │
 ▼
-2026
+[ 2026 ]
 ● AI & Open Source
 │
 ├── Computer Vision
@@ -90,7 +95,7 @@ I enjoy combining software engineering with artificial intelligence to solve Rea
 ├── Research Projects
 ├── Open Source Contributions
 │
-● Completed the Internship In Bridge Connectivity Solution Pvt Ltd
+● Completed the Internship.
 │
 ● Started Master of Computer Applications (Artificial Intelligence and Machine Learning).
 ```
