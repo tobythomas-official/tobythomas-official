@@ -44,11 +44,10 @@ I enjoy combining software engineering with artificial intelligence to solve Rea
 ● Started Programming
 │
 ├── Learned Basic of Python in My Class 12 
-│
 └── Built First Basic Console Project
 │
 ▼
-2022
+[ 2022 ]
 ● Started Bacherlors Program
 │
 ├── Started Basic Web Developement - HTML • CSS • JavaScript
@@ -56,21 +55,23 @@ I enjoy combining software engineering with artificial intelligence to solve Rea
 ├── Step into Responsive Websites
 │
 ▼
-2022
-● Started Bacherlors Program
+[ 2023 ]
 │
 ├── Started Dynamic Web Developement - React.js
 │
-├── Achieved Second Prize in Android Fest and secured Second & Third Prizes at the Chandigarh University Award Ceremony.
+├── Got an Achievements
+│              │
+│              ├── 🥈 Second Prize – Android Fest in T.A.P.S [ 
+│              ├── 🥈 Second Prize – Chandigarh University Award Ceremony
+│              └── 🥉 Third Prize – Chandigarh University Award Ceremony
 │
 ▼
-2025
-● Full Stack Development
-│
-├── MongoDB
-├── Express.js
-├── React.js
-├── Node.js
+[ 2025 ]
+├── Full Stack Development
+│              ├── MongoDB
+│              ├── Express.js
+│              ├── React.js
+│              ├── Node.js
 │
 ● Completed the Bachelors Program 
 ● Started Internship In Bridge Connectivity Solution Pvt Ltd
