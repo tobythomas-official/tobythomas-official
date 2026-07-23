@@ -17,14 +17,13 @@ I enjoy combining software engineering with artificial intelligence to solve Rea
 
 ## 📅 Current Status
 
-- 🔴 Status: Offline
-- ❗️ Reason: System Maintance 
-- 📂 Currently Coding: *nill*
+- 🟢 Status: Online  
+- 📂 Currently Coding: Rework in Components Category 
 - 🌐 Building: T4Tech
 - 📚 Learning: [Practical GitHub Actions](https://www.linkedin.com/learning/practical-github-actions/python-to-process-yaml-with-codespaces)
 - 🚀 Next Goal: Android & iOS App Based Dev
 - ☕ Last Updated: July 8, 2026
-- Ⓜ️ Motivation  : Restart Required
+- Ⓜ️ Motivation  : Moderate 
 - 💻 Engines : Linux and Windows
 
 # 🧠 Current Focus & Projects
