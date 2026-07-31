@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Toby Thomas Binu
+# Hi there, I'm Toby Thomas Binu
 
 <p align="center">
   <img
@@ -9,30 +9,30 @@
 
 ---
 
-# 👨‍💻 About Me
+# About Me
 
 I'm a passionate full-stack developer from focused on building modern web applications, AI-powered tools, and digital platforms.
 
 I enjoy combining software engineering with artificial intelligence to solve Real-World Problems.
 
-## 📅 Current Status
+## Current Status
 
-- 🟢 Status: Online  
-- 📂 Currently Coding: Rework in Components Category 
-- 🌐 Building: T4Tech
-- 📚 Learning: [Practical GitHub Actions](https://www.linkedin.com/learning/practical-github-actions/python-to-process-yaml-with-codespaces)
-- 🚀 Next Goal: Android & iOS App Based Dev
-- ☕ Last Updated: July 8, 2026
-- Ⓜ️ Motivation  : Moderate 
-- 💻 Engines : Linux and Windows
+- Status: Online  
+- Currently Coding: Rework in Components Category 
+- Building: T4Tech
+- Learning: [Practical GitHub Actions](https://www.linkedin.com/learning/practical-github-actions/python-to-process-yaml-with-codespaces)
+- Next Goal: Android & iOS App Based Dev
+- Last Updated: July 8, 2026
+- Motivation  : Moderate 
+- Engines : Linux and Windows
 
-# 🧠 Current Focus & Projects
+# Current Focus & Projects
 *   **AI Video Processing:** Developing optimized pipelines that layer optical character recognition with LLMs for real-time frame scanning.
 *   **Accessibility Tech:** Building computer vision applications designed to translate Indian Sign Language video inputs into structured subtitles.
 *   **Portfolio Systems:** Actively maintaining personal projects tracking responsive front-end designs and interactive web layouts.
 ---
 
-# 👨‍💻 Developer Timeline
+# Developer Timeline
 
 <div align="left">
 
@@ -63,9 +63,9 @@ I enjoy combining software engineering with artificial intelligence to solve Rea
 │
 ├── Got an Achievements
 │              │
-│              ├── 🥈 Second Prize – Google Dev Fest
-│              ├── 🥈 Second Prize – Android Fest
-│              └── 🥉 Third Prize – Chandigarh University Award Ceremony
+│              ├── Second Prize – Google Dev Fest
+│              ├── Second Prize – Android Fest
+│              └── Third Prize – Chandigarh University Award Ceremony
 │
 ▼
 [ 2025 ]
@@ -97,31 +97,32 @@ I enjoy combining software engineering with artificial intelligence to solve Rea
 ● Completed the Internship.
 │
 ● Started Master of Computer Applications (Artificial Intelligence and Machine Learning).
+                 ├── Joined Broken Console Club For Game Scripting 
+                 └── Joined ACM [ Association of Computer Machineray ] 
 ```
-
 </div>
 
 ---
-# 🚀 Current Projects
+# Current Projects
 
 | Project | Description | Status |
 |:----------|:---------------|:---------:|
-| **IR PORT** | *nill* | 🚀 Launching Soon | 
-| **NoteNest** | *nill* | 🚀 Launching Soon | 
-|**Windswood** | An immersive hub for music lovers, offering custom playlists, artist spotlights, instrument guides, and fresh tracks to elevate your sound. | 🛠️ Development |
-| **T4TECH** | A technology news and reviews platform featuring the latest updates, gadget reviews, product comparisons, and best deals. | 🚧 In Progress |
-| **Luminai** | An AI-powered Christian companion platform offering Bible study, devotionals, faith-based conversations, and personalized spiritual guidance. | 🔄 Maintenance |
-| **Dr Diagnostics** | A web-based hardware diagnostics platform for testing device components, monitoring performance, and generating detailed health reports. | 📈 Active |
-| **Data Management** | A secure data management system for organizing, storing, tracking, and analyzing structured business information. | 🔒 Private |
-| **SheGuard** | A women's safety platform with emergency assistance, real-time alerts, secure reporting, and location-sharing features. | 📦 Archived |
-| **AdminHub** | A centralized admin dashboard for managing users, content, analytics, permissions, and platform operations across multiple applications. | 📝 Research |
-| **BTech Hub** | A Tech E-commerce site featuring a clean, modern design, a curated premium product collection, and a smooth, user-friendly UI. | 📈 Active |
-| **Alpha V2** | Personal portfolio version 2 showcasing my projects, skills, open-source work, and professional journey. | 🔄 Maintenance |
-| **Alpha V1** | Personal portfolio showcasing my projects, skills, open-source work, and professional journey. | ✅ Completed |
+| **IR PORT** | *nill* | Launching Soon | 
+| **NoteNest** | *nill* | Launching Soon | 
+|**Windswood** | An immersive hub for music lovers, offering custom playlists, artist spotlights, instrument guides, and fresh tracks to elevate your sound. | Development |
+| **T4TECH** | A technology news and reviews platform featuring the latest updates, gadget reviews, product comparisons, and best deals. | In Progress |
+| **Luminai** | An AI-powered Christian companion platform offering Bible study, devotionals, faith-based conversations, and personalized spiritual guidance. | Maintenance |
+| **Dr Diagnostics** | A web-based hardware diagnostics platform for testing device components, monitoring performance, and generating detailed health reports. | Active |
+| **Data Management** | A secure data management system for organizing, storing, tracking, and analyzing structured business information. | Private |
+| **SheGuard** | A women's safety platform with emergency assistance, real-time alerts, secure reporting, and location-sharing features. | Archived |
+| **AdminHub** | A centralized admin dashboard for managing users, content, analytics, permissions, and platform operations across multiple applications. | Research |
+| **BTech Hub** | A Tech E-commerce site featuring a clean, modern design, a curated premium product collection, and a smooth, user-friendly UI. | Active |
+| **Alpha V2** | Personal portfolio version 2 showcasing my projects, skills, open-source work, and professional journey. | Maintenance |
+| **Alpha V1** | Personal portfolio showcasing my projects, skills, open-source work, and professional journey. | Completed |
 
 ---
 
-# 🛠️ Languages & Technologies
+# Languages & Technologies
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C" />
@@ -143,19 +144,19 @@ I enjoy combining software engineering with artificial intelligence to solve Rea
 
 ---
 
-# 🌱 Currently Learning
+# Currently Learning
 
 1. What Is the Metaverse?
 2. Practical GitHub Actions
 
 ---
 
-# 📈 GitHub Statistics
+# GitHub Statistics
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tobythomas-official&theme=tokyonight"/>
 
 ---
 
-# 💡 Interests
+# Interests
 
 * Artificial Intelligence
 * Computer Vision
@@ -169,7 +170,7 @@ I enjoy combining software engineering with artificial intelligence to solve Rea
 
 ---
 
-# 💬 Favorite Quote
+# Favorite Quote
 
 > "Whatever you do, work at it with all your heart."
 
@@ -177,17 +178,17 @@ I enjoy combining software engineering with artificial intelligence to solve Rea
 
 ---
 
-# ⚡ Fun Facts
+# Fun Facts
 
-* 🤖 Love building AI projects
-* 🌐 Passionate about Open Source
-* 🚀 Always learning something new
+* Love building AI projects
+* Passionate about Open Source
+* Always learning something new
 
 ---
 
 <p align="center">
 
-# 🌐 Connect with Me
+# Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/---" target="_blank">
