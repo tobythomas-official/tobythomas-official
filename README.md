@@ -191,19 +191,19 @@ I enjoy combining software engineering with artificial intelligence to solve Rea
 # Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/---" target="_blank">
+  <a href="https://www.linkedin.com/in/tobythomasofficial/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/---" target="_blank">
+  <a href="(link)" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="50" alt="Instagram"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://discord.com/users/123456789012345678" target="_blank">
+  <a href="(link)" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" height="50" alt="Discord"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://yourwebsite.com" target="_blank">
+  <a href="(link)" target="_blank">
     <img src="https://img.icons8.com/fluency/48/domain.png" height="50" alt="Website"/>
   </a>
 </p>
